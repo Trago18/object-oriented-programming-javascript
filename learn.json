@@ -1,0 +1,10 @@
+{
+    "language": "node",
+    "difficulty": "beginner",
+    "repository": "https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises",
+    "duration": 4,
+    "description": "Learn how objects and classes work and why they are so usefull n coding.",
+    "title": "Object Oriented Programing In Javascript",
+    "slug": "object-oriented-programing-in-javascript",
+    "skills": ["algorithms"]
+}
